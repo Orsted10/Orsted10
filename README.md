@@ -7,7 +7,7 @@
 
 <img align="right" width=200px alt="Unicorn" src="https://media.tenor.com/XP4tw9P1yFoAAAAM/dedsec.gif"/>
 
-I am a **Computer Science** student, currently through my degree, expanding my knowledge in both back-end and front-end development. I am a fullstack developer excelling in both frontend and backend , and my goal is to strengthen my development skills and explore new technologies. I love to learn and build something new, creative and fun.
+I am a first-year B.Tech AI/ML student at Chandigarh University, passionate about building innovative solutions at the intersection of artificial intelligence and full-stack development. With a strong foundation in C, Python, JavaScript, and TypeScript, I excel in both frontend and backend technologies, creating end-to-end applications that solve real-world problems..
 - 📚 I’m currently learning ...
   - *Natural Language Processing (NLP)*
   - *Constraint Programming + Machine Learning*
