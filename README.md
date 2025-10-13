@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h1><b>Hi there, I'm </b><a href="https://github.com/ALX-13">AAL1X</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h1><b>Hi there, I'm </b><a href="https://github.com/orsted10">Ankan</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br>
 
 <!-- About me -->
@@ -12,26 +12,24 @@ I am a **Computer Science** student, currently halfway through my degree, expand
   - *Natural Language Processing (NLP)*
   - *Constraint Programming + Machine Learning*
 - 🚀 I’m eager to work on new projects.
-  - *Creating an a Assistant AI: A.L.I.C.E.*
+  - *Creating an a Assistant AI*
 - ✔ Feel free to ask me anything! I’m motivated to help others.
 - Outside tech, I enjoy socializing with friends, 🎮 playing video games, 🎵 listening to music, and I also love 🎸 playing musical instruments.
-- 📫 Reach out to me at: <a href="leonardobravoricapa@gmail.com">leonardobravoricapa@gmail.com</a>
+- 📫 Reach out to me at: <a href="ankanb2006@gmail.com">ankanb2006@gmail.com</a>
 <br>
 
 <!-- Profile Trophies -->
 <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ALX-13&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
+        <img src="https://github-profile-trophy.vercel.app/?username=orsted10&theme=dark_lover&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" width="84%" />
     </a>
 </div>     
 
 <!-- Social Links -->
 <div align="center">
-  <a href="mailto:leonardobravoricapa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
-  <a href="https://www.linkedin.com/in/leonardo-bravo-4120b8228/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
-  <a href="https://www.instagram.com/leonm.br"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
-  <a href="https://x.com/leonm_br"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" /></a>
-  <a href="https://www.kaggle.com/defaltal1x"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&color=black" /></a>
+  <a href="mailto:ankanb2006@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" /></a>
+  <a href="https://www.linkedin.com/in/ankan-bhattacharjee-22a093325/"><img src="https://img.shields.io/badge/LinkedIn-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" /></a>
+  <a href="https://www.instagram.com/orsted01"><img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" /></a>
  <!-- <a href="https://aal1x-jobhub.github.io/jobhub-landing/"><img src="https://img.shields.io/badge/Website-%23.svg?&style=for-the-badge&logo=www&logoColor=white&color=black" /></a> -->
 </div>
 
@@ -123,29 +121,6 @@ I am a **Computer Science** student, currently halfway through my degree, expand
 
 <br>
 <br>
-
-<!-- My Projects -->
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35">&nbsp; ***My Best***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">El Molino</h3>
-      <div align="center">
-        <a href="https://github.com/ALX-13/El-Molino" target="_blank">
-          <img src="https://github.com/ALX-13/El-Molino/blob/master/assets/images/logo.png" width="500" style="object-fit: cover;" alt="El Molino">
-        </a>
-        <p>
-          <a href="https://github.com/ALX-13/El-Molino" target="_blank">
-            <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black&color=blue">
-          </a>
-        </p>
-        <p><strong>EL MOLINO</strong> is a game developed in C++ that combines strategy and decision-making, featuring surprisingly high-quality graphics for a console application.</p>
-      </div>
-    </td>
-  </tr>
-</table>
 <br>
 
 <!-- Github Stats -->
